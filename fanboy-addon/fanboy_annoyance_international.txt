@@ -68,6 +68,7 @@ newuthayan.com##.more-stories
 dinamalar.com##.new_nextarrow
 dinamalar.com##.new_prevarrow
 desh.co.in##.newsLetter
+skynewsarabia.com##.news_letter
 sangbadpratidin.in,vtvgujarati.com##.newsletter
 news247.gr##.newsletter-form
 uitinvlaanderen.be##.noty_bar
@@ -275,7 +276,7 @@ bolagsverket.se##div[style^="margin: 0px 0px"]
 ! ---------- Russian Site Specific Blocking Rules ----------
 !
 ||5-tv.ru^*/up.png
-||news.mirtesen.ru^$third-party
+||mirtesen.ru^$third-party
 ||news.net.finam.ru^$third-party
 ||static.smi2.net^$third-party
 ||top100.rambler.ru^$third-party

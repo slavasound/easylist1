@@ -10,6 +10,7 @@ jyllands-posten.dk##.bylineToolbar
 capital.gr##.controls
 trt.net.tr##.facebook
 epaperlokmat.in,gujaratsamacharepaper.com##.facebook-page
+skynewsarabia.com##.fb_messanger
 inneram.com##.gplus
 transfermarkt.com.tr##.header-social
 lionexpress.in##.like-text
@@ -32,8 +33,10 @@ cnnindonesia.com##.sosmed
 diyanet.tv##.sosyal-alt-ust
 mathrubhumi.com##.tFB
 mathrubhumi.com##.tYT
+skynewsarabia.com##.telegram
 gazzetta.gr##.toolbar
 trt.net.tr##.twitter
+skynewsarabia.com##.whats_app
 yle.fi##.yle__article__header__shareButtons
 ||seitzeichen.de^$third-party
 ||social-bookmarking-tools.de^$third-party
@@ -506,6 +509,7 @@ barfuss.it##.barfuss-fblikebox
 nurse24.it##.block-segui-nurse24it
 comingsoon.it##.box-tags
 ansa.it##.bt-suggest
+fantagazzetta.com##.btn-sm
 cirio.it##.cirioYou
 optimaitalia.com##.condivisioni
 everyeye.it##.cont_reply > .link-post

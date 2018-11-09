@@ -8,6 +8,8 @@
 -taboola-loader.
 -twitter-128x128.
 -youtube-128x128.
+.ui.totop.
+/1pixel.
 /1pxtransparent.
 /1x1Transparent.
 /?spu_action=*spu_load&
@@ -167,6 +169,7 @@
 /torna-su.
 /trans_pxl.
 /transparent-pixel.
+/transparent4x3.
 /ui.totop_
 /upnext.js
 /upprev.js
@@ -242,6 +245,7 @@ _my_yahoo.$image
 /footer-newsletter.
 /getnewsletter.
 /ico-subscribe-
+/ico_newsletter.
 /icon-newsletter.
 /icon-subscribe-
 /icons/newsletter
@@ -292,6 +296,7 @@ _my_yahoo.$image
 /newsletter/newsletter-
 /newsletter/popin/*
 /newsletter/popup/*
+/newsletter/render.
 /newsletter/structure/*
 /newsletter/subscriber/*
 /newsletter/subscription/*
@@ -307,6 +312,7 @@ _my_yahoo.$image
 /newslettericon2.
 /newsletterpopup/*
 /newsletters/bandeau/*
+/newsletters/modal/*
 /newslettersignup.
 /NewsletterSubscription.
 /page/newsletter-
@@ -472,6 +478,7 @@ _subscribe_button
 /rss_sprite.
 /rss_top_icon.
 /rss_widget/*
+/rssBig.
 /rssBtn.
 /rssbutton.
 /rssfeed-85.

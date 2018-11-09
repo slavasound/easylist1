@@ -12075,6 +12075,7 @@
 ##.adv-sidebar
 ##.adv-sidelabel
 ##.adv-slide-block-wrapper
+##.adv-slot-container
 ##.adv-square-banner
 ##.adv-squarebox-banner
 ##.adv-teaser-divider
@@ -13181,6 +13182,7 @@
 ##.bgcolor_ad
 ##.bgnavad
 ##.bgr_adv_div
+##.bh_ad_container
 ##.big-ad
 ##.big-ads
 ##.big-box-ad
@@ -13954,6 +13956,7 @@
 ##.content-footer-ad-block
 ##.content-header-ad
 ##.content-item-ad-top
+##.content-kuss-ads
 ##.content-list__ad-label
 ##.content-result-ads
 ##.content-top-mpu
@@ -14041,6 +14044,7 @@
 ##.cse_ads
 ##.csiAd_medium
 ##.cspAd
+##.css-live-widget_googleAdBlock
 ##.ct-ad-article
 ##.ct-ad-article-wrapper
 ##.ct-ads

@@ -119,6 +119,7 @@
 -sharebar.
 -sharebuttons_
 -shareit.
+-sharetools-
 -sharing-popin.
 -slide-social-
 -soc-sprites.
@@ -851,6 +852,7 @@
 /head_twitter.
 /header-facebook.png
 /header-social-
+/header-social/*
 /header-twitter.png
 /header/fb-
 /header/share.
@@ -1758,6 +1760,7 @@
 /sharing/sprites/*
 /sharing_icons/*
 /SharingBar/*
+/sharrre.jsp?$xmlhttprequest
 /sharrre_
 /shr_btn_
 /shrMain.min.js
@@ -1803,6 +1806,7 @@
 /sn_facebook_
 /sn_plurk_
 /sn_share_
+/snaShare.
 /sns_fb.
 /sns_instagram.
 /sns_tw.
@@ -2003,6 +2007,7 @@
 /social_button.
 /social_buttons.
 /social_buttons/*
+/social_buttons_
 /social_buzz.
 /social_circles_
 /social_clip_icons.
@@ -2065,6 +2070,7 @@
 /social_widget/*
 /social_widget?
 /social_youtube
+/socialappsintegrator.
 /socialbadges.
 /socialbar-
 /socialbar.
@@ -2144,6 +2150,7 @@
 /SocialShareSprite.
 /socialsheet.
 /socialsIcons/*
+/socialsite/*
 /socialSmall/*
 /SocialSprite.
 /socialsprites.
@@ -2457,6 +2464,7 @@
 /uploads/twitter-
 /uploads/youtube2.
 /utube-icon.
+/validateArticleShareCount.
 /viber_button.
 /view/share_
 /view_social_

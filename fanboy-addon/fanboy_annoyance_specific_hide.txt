@@ -2568,7 +2568,6 @@ businessinsider.com##.partner-thanks
 eater.com##.partners
 discovermagazine.com##.payWall
 seattletimes.com##.paywall_popup
-washingtonpost.com##.pb-f-sharebars-top-share-bar
 flipkart.com##.pbo-sticky
 discovery.com##.persistent
 sportingnews.com##.persistent-bar-module
@@ -2633,6 +2632,7 @@ oxforddictionaries.com##.prev-next-link
 dnaindia.com##.prev-node
 straitstimes.com##.prev-story
 gizbot.com##.prevArticle
+hotnewhiphop.com##.prevNext-arrows
 msn.com##.prev_article
 disclose.tv##.prev_page
 glamour.com##.previous
@@ -3978,6 +3978,7 @@ merriam-webster.com##.word-of-day-subscribe-block
 5pillarsuk.com##.wpcf7
 i24news.tv##.wrapper_footer_5_suscribe
 i24news.tv##.wrapper_footer_5_suscribe_form
+wwd.com##.wwd-subscribe-now-banner-ad-container
 concisenews.global##.yikes-mailchimp-container
 minds.com##M-MODAL
 rollingstone.com##[href="/subscribe-more/"]
@@ -4110,6 +4111,7 @@ cardekho.com##.gsst_scroll-btn
 bdnews24.com##.handleScrollTop
 netflorist.co.za##.homePageElevator
 chinadaily.com.cn##.hui-dingbu
+tubefilter.com##.item-back-top
 itweb.co.za##.itw-scroll-top
 nomuraholdings.com##.js-PageTop
 airliquide.com##.js-scroll-down
@@ -4156,7 +4158,7 @@ crimerussia.com##.up-btn
 epicgames.com##.up-button
 vodafone-wifi.com##.uparrow
 racedepartment.com##.xbScrollButtons
-gaycitynews.nyc,israeltoday.co.il,nca.aero,repsol.com,xinhuanet.com##a[href="#top"]
+appleinsider.com,gaycitynews.nyc,israeltoday.co.il,nca.aero,repsol.com,xinhuanet.com##a[href="#top"]
 ! zoover regional sites.
 ###ctl00_ZooverBody > #info-bar
 ! Embedded video Annoyances

@@ -857,6 +857,7 @@
 /ad-468-
 /ad-600-
 /AD-970x90.
+/ad-ace/*
 /ad-amz.
 /ad-api-
 /ad-api/*
@@ -917,6 +918,8 @@
 /ad-label-
 /ad-label.
 /ad-layering-
+/ad-layers-
+/ad-layers.
 /ad-layout/*$~script,~stylesheet
 /ad-leaderboard.
 /ad-left.
@@ -4002,6 +4005,7 @@
 /comm/AD_
 /comment-ad-
 /comment-ad.
+/commercial/sponsor/*
 /commercial_horizontal.
 /commercial_top.
 /common-ads/*
@@ -4086,6 +4090,7 @@
 /crossdomainads.
 /crossoverad-
 /csp/ads?
+/css/ad-
 /css/ad.
 /css/ads-
 /css/ads.
@@ -4702,6 +4707,7 @@
 /googleadsafc_
 /googleadsafs_
 /googleAdScripts.
+/GoogleAdSense-
 /googleadsense.
 /googleAdTaggingSubSec.
 /googleadunit?
@@ -6247,6 +6253,8 @@
 /sponsored_ad_
 /sponsored_ads/*
 /sponsored_by.
+/sponsored_content-
+/sponsored_content/*
 /sponsored_link.
 /sponsored_links.
 /sponsored_links1.
@@ -7370,6 +7378,7 @@ _cgbanners.php?
 _ChatAd_
 _commonAD.
 _companionad.
+_content/sponsored_
 _content_ad.
 _content_ad_
 _contest_ad_
@@ -7379,6 +7388,7 @@ _dart_ads.
 _dart_interstitial.
 _dashad_
 _dfp.php?
+_dfp_targeting.
 _displayad_
 _displaytopads.
 _doubleclick.

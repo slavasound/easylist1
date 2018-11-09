@@ -273,6 +273,7 @@
 ##.footer__soc_rss
 ##.front-overlay-arrows
 ##.fyre-notifier-container
+##.g1-teaser
 ##.genericon-feed
 ##.gt-popup
 ##.home-twitterfeed
@@ -1049,6 +1050,7 @@
 ###topMailingListWrapper
 ###uglipop_content_fixed
 ###uglipop_overlay
+###webui-newsletter-bottom-column
 ###widget-apply-newsletter-article
 ###widget-newsletter-signup
 ###widgetNewsletter
@@ -1193,6 +1195,7 @@
 ##.c-newsletterbox
 ##.c-post-actions__newsletter
 ##.c-rock-newsletter
+##.c-subscribe-options-newsletter
 ##.c-widget--newsletter
 ##.cS-newsletter
 ##.calls-to-action__newsletter
@@ -1216,6 +1219,7 @@
 ##.content-mod-newsletter-right
 ##.content-toaster--newsletter
 ##.content-well-newsletter
+##.css-live-widget_subscribeEmails
 ##.cst_newsletter_signup
 ##.cta-news
 ##.cta-newsletter
@@ -2011,11 +2015,12 @@
 ##.wwd-subscribe-now-banner-background
 ##.yt-mailchimp-subscription-form-widget
 ##GET-SUBSCRIBERS
+##[class^="NewsletterSubscribe"]
+##[data-target="#newsletter-modal"]
 ##a[title="Daily Email Newsletter"]
 ##div[class*="NewsletterSubscribe_"]
 ##div[class^="NewsletterForm_"]
 ##div[class^="NewsletterPopup_"]
-##div[class^="NewsletterSubscribe"]
 ##img[alt="Subscribe via E-mail Newsletter"]
 ##img[title="Subscribe to our daily email"]
 ! wix sites
@@ -2460,6 +2465,8 @@
 ##.BackToTop
 ##.Backtotop
 ##.Bt_Gotop
+##.GlobalFooter-backToTop
+##.GlobalFooter-backToTopSection
 ##.JumpToTop
 ##.TopGoTop
 ##.W_gotop
@@ -2712,6 +2719,7 @@
 ##.z-navigation-footer_backToTop
 ##A[onclick="SEAT_ANALYTICS.trackTriggerEvent('scrollingarrow');"]
 ##[app="back-to-top-button"]
+##[aria-label="Back to top"]
 ##[data-funct="GoToPageTop"]
 ##[data-id="documentScrollToTop"]
 ##[data-test="back-to-top"]
